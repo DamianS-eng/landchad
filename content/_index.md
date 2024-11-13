@@ -65,5 +65,11 @@ Tips and articles on mastering your server and learning about GNU/Linux systems 
 
 ## Support LandChad.net
 
-- BTC: `bc1q9f3tmkhnxj8gduytdktlcw8yrnx3g028nzzsc5`
-- XMR: `84RXmrsE7ffCe1ADprxLMHRpmyhZuWYScDR4YghE8pFRFSyLtiZFYwD6EPijVzD3aZiEpg57MfHEr1pGJNPXyJgENMnWrSh`
+- BTC:
+  ```
+  bc1q9f3tmkhnxj8gduytdktlcw8yrnx3g028nzzsc5
+  ```
+- XMR:
+  ```
+  84RXmrsE7ffCe1ADprxLMHRpmyhZuWYScDR4YghE8pFRFSyLtiZFYwD6EPijVzD3aZiEpg57MfHEr1pGJNPXyJgENMnWrSh
+  ```
